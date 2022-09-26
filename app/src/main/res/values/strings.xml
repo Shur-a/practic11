@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practic11</string>
+    <string name="name">Добро пожаловать!!!</string>
+    <string name="add">Добавить контакт</string>
+    <string name="add2">Ваш список контактов</string>
+    <string name="name1">Имя</string>
+    <string name="contact">Добавьте контакт</string>
+    <string name="surname">Фамилия</string>
+    <string name="N_telefon">Номер телефона</string>
+    <string name="job">Место работа</string>
+    <string name="add3">Добавить</string>
+    <string name="spisok">Список контактов</string>
+</resources>
